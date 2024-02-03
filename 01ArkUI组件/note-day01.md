@@ -32,7 +32,7 @@
 
 
 
-![](D:\桌面\桌面文件夹\文件夹\Typora\harmonyOs 4.0 + Next星河版\01ArkUI组件\image\01 image组件.png)
+![](https://github.com/liujintaowork/harmonyOsStudyNote/blob/master/01ArkUI%E7%BB%84%E4%BB%B6/image/01%20image%E7%BB%84%E4%BB%B6.png)
 
 #### 2.1 第一种：使用网络超链接实现图片渲染
 
